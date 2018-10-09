@@ -1,0 +1,1 @@
+# apt_info_seoul
